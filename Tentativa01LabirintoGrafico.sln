@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tentativa01LabirintoGrafico", "Tentativa01LabirintoGrafico\Tentativa01LabirintoGrafico.csproj", "{699D280F-5DA1-451A-BB4D-45A3C09DEDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699D280F-5DA1-451A-BB4D-45A3C09DEDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699D280F-5DA1-451A-BB4D-45A3C09DEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699D280F-5DA1-451A-BB4D-45A3C09DEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699D280F-5DA1-451A-BB4D-45A3C09DEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A0871CD-215A-4DAB-B4E8-DA5C79AE9B17}
+	EndGlobalSection
+EndGlobal
